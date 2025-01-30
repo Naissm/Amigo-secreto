@@ -2,4 +2,7 @@
 
 - Estado del proyecto: Concluido
 
-[![image11.png](https://i.postimg.cc/gkLD9YGL/image11.png)](https://postimg.cc/vcM9fwgG)
+El juego permita a cada usuario ingresar nombres de tus amigos y luego se procede a realizar un sorteo aleatorio para determinar quien es el amigo secreto. 
+
+Si una se intenta ingresar un nombre vacio, abrá una alerta indicando de que no es valido.
+Igualmente si es un número, se generará una alerta.
